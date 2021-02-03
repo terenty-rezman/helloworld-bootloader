@@ -1,4 +1,4 @@
-# hello world bootloader for BIOS MRB
+# hello world bootloader for BIOS MBR
 
 run: 
 ```
